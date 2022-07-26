@@ -1,0 +1,19 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.penguin-bg-light{
+    background-color:#FEEAE9 ;
+}
+.bannar-text{
+    color:#363958;
+}
+.bannar-text-color{
+    color:#FA804C ;
+}
+.panda-btn-danger{
+    background-image:linear-gradient(rgb(202, 94, 252) ,rgb(231, 60, 231));
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
